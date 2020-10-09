@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:04:30 +0800] "GET / HTTP/1.1" 200 7793 http-bio-8888-exec-1 181
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:04:30 +0800] "GET /checkCodeServlet HTTP/1.1" 200 2510 http-bio-8888-exec-3 283
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:04:30 +0800] "GET /favicon.ico HTTP/1.1" 200 7793 http-bio-8888-exec-4 5
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:04:48 +0800] "GET /loginServlet?username=2537716149&password=123456&checkCode=m6yr HTTP/1.1" 302 - http-bio-8888-exec-5 440
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:04:48 +0800] "GET /index.jsp HTTP/1.1" 200 884 http-bio-8888-exec-7 7
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:04:48 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8888-exec-8 3
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:05:19 +0800] "GET /loginServlet?username=2537716149&password=55454455445&checkCode=m6yr HTTP/1.1" 200 7778 http-bio-8888-exec-9 8
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:20:05:19 +0800] "GET /checkCodeServlet HTTP/1.1" 200 2250 http-bio-8888-exec-9 18

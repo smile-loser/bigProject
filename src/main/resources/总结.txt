@@ -1,0 +1,3 @@
+1.在将javaweb改为maven要先配置pom.xml导包再复制过来，否则会有很多问题
+2.el表达式${pageContext.request.contextPath}再web.xml 2.0版本下不能识别，得手动跟换版本
+3.get 获取参数会乱码得在插件设置时加上  <uriEncoding>UTF-8</uriEncoding>
